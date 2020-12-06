@@ -1,6 +1,6 @@
 # Python TicTacToe
 
-Tic-tac-toe game example with python tkinter.
+Tic-tac-toe game example with python tkinter.<br />
 Show some ❤️ and star the repo to support the project.
 
 
