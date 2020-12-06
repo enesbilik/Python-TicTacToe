@@ -1,6 +1,7 @@
 # Python TicTacToe
 
-Tic-tac-toe game example with python tkinter
+Tic-tac-toe game example with python tkinter.
+Show some ❤️ and star the repo to support the project.
 
 
 ## Getting Started 
@@ -24,7 +25,8 @@ Check the sample steps to run it on your computer.
    
 ### Screen Shoots
 <img src="ScreenShoots/ssttt1.png" height="300em" title="Tkinter">
-# 
 
+
+### Game over 
 <img src="ScreenShoots/ssttt2.png" height="300em" title="Tkinter">
 
