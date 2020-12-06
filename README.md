@@ -28,5 +28,5 @@ Check the sample steps to run it on your computer.
 
 
 ### Game over 
-<img src="ScreenShoots/ssttt2.png" height="300em" title="Tkinter">
+<img src="ScreenShoots/ssttt2.png" height="100em" title="Tkinter">
 
