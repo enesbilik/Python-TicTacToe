@@ -24,9 +24,9 @@ Check the sample steps to run it on your computer.
     ```
    
 ### Screen Shoots
-<img src="ScreenShoots/ssttt1.png" height="300em" title="Tkinter">
+<img src="ScreenShoots/ssttt1.png" height="280em" title="Tkinter">
 
 
 ### Game over 
-<img src="ScreenShoots/ssttt2.png" height="100em" title="Tkinter">
+<img src="ScreenShoots/ssttt2.png" height="180em" title="Tkinter">
 
